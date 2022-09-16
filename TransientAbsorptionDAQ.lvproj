@@ -42,6 +42,7 @@
 			<Item Name="view_full_data.vi" Type="VI" URL="../processing/view_full_data.vi"/>
 		</Item>
 		<Item Name="data_algorithm.ctl" Type="VI" URL="../data_algorithm.ctl"/>
+		<Item Name="enum2stringarray.vi" Type="VI" URL="/C/Users/lars/Desktop/enum2stringarray.vi"/>
 		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
 		<Item Name="main_b.vi" Type="VI" URL="../main_b.vi"/>
 		<Item Name="splash.vi" Type="VI" URL="../splash.vi"/>
@@ -214,7 +215,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{8985453E-1D85-4C69-B694-A3BA9E3F2250}</Property>
-				<Property Name="Bld_version.build" Type="Int">848</Property>
+				<Property Name="Bld_version.build" Type="Int">860</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">TransientAbsorptionDAQ.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME.exe</Property>
